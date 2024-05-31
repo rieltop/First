@@ -1,0 +1,7 @@
+
+requests
+beautifulsoup4
+schedule
+pandas
+openpyxl
+google-auth-oauthlib
